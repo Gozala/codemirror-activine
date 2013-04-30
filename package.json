@@ -1,0 +1,22 @@
+{
+  "name": "codemirror-activine",
+  "id": "codemirror-activine",
+  "version": "0.0.1",
+  "description": "Active line highlighter addon for codemirror",
+  "keywords": [ "codemirror-activine", "codemirror", "plugin" ],
+  "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
+  "homepage": "https://github.com/Gozala/codemirror-activine",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gozala/codemirror-activine.git",
+    "web": "https://github.com/Gozala/codemirror-activine"
+  },
+  "bugs": {
+    "url": "http://github.com/Gozala/codemirror-activine/issues/"
+  },
+  "main": "./core.js",
+  "licenses": [{
+    "type" : "MIT",
+    "url" : "https://github.com/Gozala/codemirror-activine/License.md"
+  }]
+}
